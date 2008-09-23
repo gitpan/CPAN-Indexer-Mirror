@@ -10,8 +10,7 @@ SYNOPSIS
 
 DESCRIPTION
     This module is used to implement a small piece of functionality inside
-    the CPAN/PAUSE indexer which generates the mirror.yml and mirror.json
-    files.
+    the CPAN/PAUSE indexer which generates mirror.yml and mirror.json.
 
     These files are used to allow CPAN clients (via the Mirror::YAML or
     Mirror::JSON modules) to implement mirror validation and automated
